@@ -1,5 +1,16 @@
+*{
+  padding:0;
+  margin:0;
+  text-align: center;
+  color:#FFF;
+}
 .App {
   text-align: center;
+}
+
+.Entry{
+  width: 100%;
+  height: 100vh;
 }
 
 .App-logo {
